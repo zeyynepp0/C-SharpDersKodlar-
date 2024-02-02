@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\bin\Debug\ConsoleApp  9.pdf 1.ornek.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\bin\Debug\ConsoleApp  9.pdf 1.ornek.exe
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\bin\Debug\ConsoleApp  9.pdf 1.ornek.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\obj\Debug\ConsoleApp  9.pdf 1.ornek.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\obj\Debug\ConsoleApp  9.pdf 1.ornek.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\obj\Debug\ConsoleApp  9.pdf 1.ornek.exe
+C:\Users\zeyne\OneDrive\Masaüstü\C# ders örnekleri\ConsoleApp  9.pdf 1.ornek\obj\Debug\ConsoleApp  9.pdf 1.ornek.pdb
